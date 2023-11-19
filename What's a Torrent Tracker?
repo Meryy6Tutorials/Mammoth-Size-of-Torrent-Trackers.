@@ -1,0 +1,7 @@
+ A torrent tracker acts as a central hub or server in the peer-to-peer file-sharing system. It helps facilitate the communication between devices (computers, 
+in most cases) that are participating in the sharing of 
+files using the BitTorrent protocol. When someone wants to download a file via BitTorrent, their computer connects to the tracker to find other computers (peers) that have the specific file they're looking for. The tracker helps in coordinating the data transfer between these peers, enabling the efficient distribution of files across multiple users without the need for a central server hosting the entire file.
+
+
+Basically: Tracker help peer 1 and peer 2 help each other download torrent.
+
